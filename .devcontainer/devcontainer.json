@@ -18,7 +18,6 @@
                 "ms-python.flake8",
                 "ms-python.black-formatter",
                 "njpwerner.autodocstring",
-                "ms-python.flake8",
                 // Jupyter
                 "ms-toolsai.jupyter",
                 // Git
